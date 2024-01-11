@@ -1,16 +1,43 @@
-### Hi there 👋
+<p align='center'>
+  <a href="https://github.com/KirinRyu?tab=repositories">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f7f265&height=300&section=header&text=Ryuichi%20Satoy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20and%20Back-End%20Developer&descAlignY=51&descAlign=50"/>
+</p>
 
-<!--
-**KirinRyu/KirinRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f265&size=35&center=true&vCenter=true&width=1000&lines="HELLO+WORLD!";I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br><br>
+##
+<div align="center">
+  <a href="https://github.com/KirinRyu?tab=repositories">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+  <a href="https://github.com/KirinRyu?tab=repositories">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=KirinRyu&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirinRyu&layout=compact&langs_count=16&theme=great-gatsby"/>
+    <br><br>
+</div>
+<div align="center">
+  <p>
+      <i>Hello! My name is Ryuichi Satoy. I'm studying Systems Analysis and Development at FATEC (graduating in early 2026).
+      I'm a Python developer with extensive knowledge in SQL and JAVA.</i>
+ </p>
+</div>
+
+    
+##
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/KirinRyu"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/daniel-satoy-751aa5162/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f265&height=120&section=footer"/>
