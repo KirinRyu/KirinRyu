@@ -1,19 +1,19 @@
 <p align='center'>
   <a href="https://github.com/KirinRyu?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=f7f265&height=300&section=header&text=Ryuichi%20Satoy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20and%20Back-End%20Developer&descAlignY=51&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f71616&height=300&section=header&text=Ryuichi%20Satoy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20and%20Back-End%20Developer&descAlignY=51&descAlign=50"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f265&size=35&center=true&vCenter=true&width=1000&lines="HELLO+WORLD!";I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f71616&size=35&center=true&vCenter=true&width=1000&lines="HELLO+WORLD!";I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
 ##
 <div align="center">
   <a href="https://github.com/KirinRyu?tab=repositories">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
     
 </div>
 
@@ -36,8 +36,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/KirinRyu"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-satoy-751aa5162/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f265&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f71616&height=120&section=footer"/>
