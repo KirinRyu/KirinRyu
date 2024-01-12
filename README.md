@@ -20,8 +20,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/KirinRyu?tab=repositories">
-  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=KirinRyu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirinRyu&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=KirinRyu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirinRyu&layout=compact&langs_count=16&theme=transparent"/>
     <br><br>
 </div>
 <div align="center">
