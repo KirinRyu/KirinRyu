@@ -36,7 +36,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daniel-satoy-751aa5162/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://www.linkedin.com/in/daniel-satoy/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f71616&height=120&section=footer"/>
