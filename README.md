@@ -33,14 +33,16 @@
  </p>
 </div>
 
+<div align="center">
+<br>
+  
+  [![Visits Badge](https://badges.pufler.dev/visits/KirinRyu/KirinRyu)](https://KirinRyu.com)
+</div>
     
 ##
 <br>
 
-<div align="center">
-  
-  [![Visits Badge](https://badges.pufler.dev/visits/KirinRyu/KirinRyu)](https://KirinRyu.com)
-</div>
+
 
 <br>
 
