@@ -7,9 +7,8 @@
 
 <br><br>
 ##
-<div align="center">
-  
-</div>
+
+<br>
 <div align="center">
   <a href="https://github.com/KirinRyu?tab=repositories">
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -19,7 +18,7 @@
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
     
 </div>
-
+<br>
 <br>
 <div align="center">
   <a href="https://github.com/KirinRyu?tab=repositories">
