@@ -8,6 +8,9 @@
 <br><br>
 ##
 <div align="center">
+  
+</div>
+<div align="center">
   <a href="https://github.com/KirinRyu?tab=repositories">
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -20,7 +23,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/KirinRyu?tab=repositories">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=KirinRyu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirinRyu&layout=compact&langs_count=16&theme=transparent"/>
     <br><br>
 </div>
@@ -33,7 +35,14 @@
 
     
 ##
-<br><br>
+<br>
+
+<div align="center">
+  
+  [![Visits Badge](https://badges.pufler.dev/visits/KirinRyu/KirinRyu)](https://KirinRyu.com)
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-satoy/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
