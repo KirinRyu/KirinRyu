@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/KirinRyu?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=f71616&height=270&section=header&text=Ryuichi%20Satoy&fontSize=90&animation=fadeIn&fontAlignY=40.5&desc=Software%20Developer&descAlignY=48&descAlign=69"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f71616&height=270&section=header&text=Ryuichi%20Satoy&fontSize=90&animation=fadeIn&fontAlignY=40.5&desc=Software%20Developer&descAlignY=50&descAlign=69"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f71616&size=35&center=true&vCenter=true&width=1000&lines="HELLO+WORLD!";I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
