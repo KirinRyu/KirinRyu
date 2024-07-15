@@ -22,7 +22,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/KirinRyu?tab=repositories">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirinRyu&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="220px" width="570px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirinRyu&layout=compact&langs_count=16&theme=transparent"/>
     <br><br>
 </div>
 <div align="center">
