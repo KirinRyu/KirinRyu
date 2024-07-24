@@ -31,7 +31,7 @@
 <div align="center">
   <p>
       <i>Hello! My name is Ryuichi Satoy. I'm studying Systems Analysis and Development at FATEC (graduating in early 2026).
-      I'm a Python developer with extensive knowledge in SQL and JAVA.</i>
+      I'm a software developer with extensive knowledge in SQL and JAVA.</i>
  </p>
 </div>
 
