@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/KirinRyu?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=f71616&height=270&section=header&text=Ryuichi%20Satoy&fontSize=90&animation=fadeIn&fontAlignY=40.5&desc=Software%20Developer&descAlignY=50&descAlign=69"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f71616&height=270&section=header&text=Ryuichi%20Satoy&fontSize=90&animation=fadeIn&fontAlignY=40.5&desc=Software%20Developer&descAlignY=53&descAlign=69"/>
   </a>
 </p>
 
